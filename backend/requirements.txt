@@ -1,0 +1,12 @@
+fastapi
+uvicorn
+pydantic
+typing
+requests
+langchain
+langchain-community
+langchain-openai
+langchain-ollama
+langchain-classic
+langchain
+firebase-admin

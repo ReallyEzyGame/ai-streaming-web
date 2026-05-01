@@ -1,0 +1,9 @@
+# enviroment
+.env
+.venv/
+.vscode/
+# Firebase
+firebase/
+
+# others
+__pycache__/
